@@ -1,0 +1,6 @@
+[submodule "slides_ol"]
+	path = slides_ol
+	url = https://git.overleaf.com/5f828f28d430cc0001f5e415
+[submodule "target_ranking"]
+	path = target_ranking
+	url = https://github.com/BCMSLab/target_ranking
